@@ -5,7 +5,7 @@ const Home = () => {
         <h1 className="text-2xl">
           こんにちは！！
         </h1>
-        <p className="text-xs text-rose-700">お元気ですか？</p>
+        <p className="text-xs text-teal-500">お元気ですか？</p>
       </div>
     );
   };
